@@ -52,6 +52,11 @@ Reference documentation on ruby: http://ruby-doc.org/
 
 Information on Sinatra: http://www.sinatrarb.com/
 
+Deploying with Heroku
+================
+
+**NOTE** - Heroku is no longer a free service, so this section can be skipped for now.
+
 Information on deploying to Heroku, some of this will be needed to understand
 how to deploy other parts are just for reference:
 
